@@ -1,6 +1,6 @@
-# Tornado Vote Privacy Solution based on Tornado Cash
+# Anonmyous Vote Privacy Solution based on ZK-Merkle Tree and Tornado Cash
 
-Tornado Vote is a privacy voting solution based on outstanding [Tornado Cash](https://github.com/tornadocash) that utilizes zkSNARKs. 
+Anonmyous Vote is a privacy voting solution based on outstanding [Tornado Cash](https://github.com/tornadocash) that utilizes zkSNARKs. 
 
 ## Installation 
 
