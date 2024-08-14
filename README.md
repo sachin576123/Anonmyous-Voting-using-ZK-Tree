@@ -1,6 +1,6 @@
 # Tornado Vote Privacy Solution based on Tornado Cash
 
-Tornado Vote is a privacy voting solution based on outstanding [Tornado Cash](https://tornado.cash) that utilizes zkSNARKs. 
+Tornado Vote is a privacy voting solution based on outstanding [Tornado Cash](https://github.com/tornadocash) that utilizes zkSNARKs. 
 
 ## Installation 
 
