@@ -222,7 +222,7 @@ Nullifier   : 0x002a01d05f87ffd7f42f7a462ff77a3089e764441934e525ccd22afd84003d1b
 
 =====================================
 ```
-
+<!--
 ## Frontend
 
 Frontend development is in progress and is available at Please visit [Frontend for ZK Vote](https://github.com/koinov/zkvote-front) for more details
@@ -263,15 +263,11 @@ Frontend development is in progress and is available at Please visit [Frontend f
 
 [ ] Thiking of staking for frozen tokens
 
+-->
+## TODO:
 
+[ ] Simplyfying ballot structure
 
-## Credits
+[ ] Proxy for gasless voting through third-party server
 
-Special thanks to Roman Storm for awesome Tornado.cash!
-
-[Tornado.Cash Website](https://tornado.cash)
-
-[Tornado.Cash Github](https://github.com/tornadocash) 
-
-
-
+[ ] Front End (in progress) 
